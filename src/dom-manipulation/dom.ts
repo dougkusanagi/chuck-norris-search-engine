@@ -96,8 +96,8 @@ export function getFactWithHighlights(fact: string): string {
   );
 
   const SPAN = fact.replace(
-    INPUT_TEXT_QUERY.value,
-    `<span class="highlighted">${INPUT_TEXT_QUERY.value}</span>`
+    new RegExp(INPUT_TEXT_QUERY.value, "i"),
+    `<span class="highlighted">$&</span>`
   );
 
   return SPAN;

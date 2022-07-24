@@ -1,8 +1,9 @@
-# Installation instructions
+# Chuck Norris Search Engine
+
 
 ## Installation Dependencies
 
-Only a package manager like npm or yarn is required
+Just a package manager like npm or yarn is required
 
 <br />
 
@@ -10,14 +11,14 @@ Only a package manager like npm or yarn is required
 
 > 1. Vite as a building tool and server
 > 2. TailwindCSS as a front-end css framework
-> 3. Jest as a test Test Runner and Assertion Library
+> 3. Jest as a Test Runner and Assertion Library
 
 <br />
 
 ## Installation Steps
-1. Unzip the package
+1. Unzip the package in some empty directory
 
-2. Open the terminal in the same directory you unzip the files and execute one of this commands in a terminal for building or preview the project
+2. Open the terminal in the same directory you unzip the files and execute one of this commands in a terminal to install the dependencies and start a web server
 
 <br />
 
