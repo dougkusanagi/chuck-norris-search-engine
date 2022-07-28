@@ -1,5 +1,6 @@
 # Chuck Norris Search Engine
 
+<img src="screenshots/screenshot-desktop-mobile.png" />
 
 ## Installation Dependencies
 
